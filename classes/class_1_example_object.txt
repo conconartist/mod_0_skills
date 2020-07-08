@@ -1,0 +1,14 @@
+instance: GiantCookie
+
+attributes:
+ingredients = ["sugar", "flour", "eggs", "milk", "butter"]
+containsDairy = true
+maker = "Bob the Baker"
+numberOfPeopleSharing = 3
+amountOfCalories = 1400
+
+methods:
+addIngredient: ["sugar", "flour", "eggs", "milk", "butter", "chocolate chips"]
+substituteDairy: containsDairy = false
+changeMaker: maker = "Patty the Patissier"
+addReservation: numberOfPeopleSharing = 4
