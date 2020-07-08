@@ -1,0 +1,14 @@
+class Menu
+
+attributes:
+numberOfItems (integer)
+alcoholServed (boolean)
+specialOftheDay (string)
+itemPrice (float)
+
+
+methods:
+addMenuItem (add to numberOfItems)
+renewLiquorLicense (toggles alcoholServed)
+changeDailySpecial (reassigns specialOftheDay)
+increaseItemPrice (adds to float)
