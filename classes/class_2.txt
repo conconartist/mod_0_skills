@@ -6,9 +6,8 @@ alcoholServed (boolean)
 specialOftheDay (string)
 itemPrice (float)
 
-
 methods:
 addMenuItem (add to numberOfItems)
-renewLiquorLicense (toggles alcoholServed)
+expireLiquorLicense (toggles alcoholServed)
 changeDailySpecial (reassigns specialOftheDay)
 increaseItemPrice (adds to float)
