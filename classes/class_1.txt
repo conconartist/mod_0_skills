@@ -1,0 +1,14 @@
+class Dessert
+
+attributes:
+ingredients (array)
+containsDairy (boolean)
+maker (string)
+numberOfPeopleSharing (integer)
+amountOfCalories (integer)
+
+methods:
+addIngredient (add to end of ingredients array)
+substituteDairy (toggles containsDairy)
+changeMaker (reassigns maker string)
+addReservation (add to numberOfPeopleSharing)
