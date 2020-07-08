@@ -1,0 +1,13 @@
+class CheescakeFactoryMenu
+
+attributes:
+numberOfItems = 900
+alcoholServed = true
+specialOftheDay = "Clam Chowder"
+itemPrice = 12.99
+
+methods:
+addMenuItem: numberOfitems = 901
+expireLiquorLicense: alcoholServed = false
+changeDailySpecial: specialOftheDay = "Ham Sandwich"
+increaseItemPrice: itemPrice = 13.49
